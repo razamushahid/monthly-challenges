@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Style+Script&display=swap');
+
+
+html {
+    font-family: 'Style Script', cursive;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Style Script', cursive;
+}
+
+body {
+    margin: 0;
+    background-color: #1a1a1a;
+}
